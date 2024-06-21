@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@100..900&display=swap');
 
 :root {
-    --cor-primaria: #7f077e;
-    --cor-secundaria: #403038;
-    --cor-terciaria: #ebb0ff;
+    --cor-primaria: #173753;
+    --cor-secundaria: #0059bc;
+    --cor-terciaria: #00baff;
     --cor-quartenaria: #f3cad0;
     --cor-quinquenaria: #000;
     --detalhes: #fff;
@@ -142,8 +142,8 @@ body::before {  /* criei uma camada de background separada para a opacidade nao 
     bottom: 0;
     width: 100%;
     color: var(--detalhes);
-    background-color: var(--cor-primaria);
-    padding: 15px;
+    background-color: #e1e5f8;
+    padding: 10px;
     text-align: center;
     font-family: var(--fonte-secundaria);
     font-size: 1.2rem;
