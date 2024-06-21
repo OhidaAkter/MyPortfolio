@@ -8,8 +8,8 @@
     --cor-quinquenaria: #000;
     --detalhes: #fff;
 
-    --fonte-primaria: "Segoe UI', Tahoma, Geneva, Verdana, sans-serif";
-    --fonte-secundaria: "Montserrat", sans-serif;
+    --fonte-primaria: 'Trebuchet MS', sans-serif;
+    --fonte-secundaria: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 * {
