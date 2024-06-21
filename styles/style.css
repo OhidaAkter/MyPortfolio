@@ -17,10 +17,9 @@
     padding: 0;
     box-sizing: border-box;
 }
-.rlist {
-  column-count: 2;
-  column-gap: 15px;
-  column-rule: 1px solid lightblue;
+.rlist 
+{
+  
 }
 
 h3 {
