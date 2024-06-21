@@ -17,6 +17,16 @@
     padding: 0;
     box-sizing: border-box;
 }
+.rlist {
+  column-count: 2;
+  column-width: 80px;
+  column-gap: 15px;
+  column-rule: 1px solid lightblue;
+}
+
+h2 {
+  column-span: all;
+}
 
 body {
     box-sizing: border-box; /*border-box encolhe o conteudo caso ele tenha borda ou padding para que nao saia de dentro do elemento pai */
