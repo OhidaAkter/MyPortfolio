@@ -7,7 +7,7 @@ A personal academic portfolio website built with HTML, CSS, and JavaScript.
 
 ## 📌 About
 This portfolio showcases my academic background, research interests, 
-skills, and projects as a PhD student in Computer Science.
+skills, and projects.
 
 ## 📂 Sections
 - **About** — Bio and research interests
